@@ -1,0 +1,110 @@
+[
+  {
+    "image": "https://i.ibb.co/FVwkm8T/breakfast3.jpg",
+    "title": "Classic Pancakes",
+    "description": "Fluffy pancakes served with maple syrup and fresh berries.",
+    "price": 80,
+    "rating": 3,
+    "category": "breakfast",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/wKZdK8x/breakfast2.jpg",
+    "title": "Vegetarian Omelette",
+    "description": "A healthy omelette made with fresh vegetables and herbs.",
+    "price": 60,
+    "rating": 4,
+    "category": "breakfast",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/r4dRJSy/breakfast1.jpg",
+    "title": "Greek Yogurt Parfait",
+    "description": "Layers of Greek yogurt, granola, and mixed fruits.",
+    "price": 50,
+    "rating": 3,
+    "category": "breakfast",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/kx98ghb/breakfast4.jpg",
+    "title": "Avocado Toast",
+    "description": "Whole-grain toast topped with mashed avocado and cherry tomatoes.",
+    "price": 120,
+    "rating": 4,
+    "category": "breakfast",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/J7hMwh4/lunch2.jpg",
+    "title": "Chicken Caesar Salad",
+    "description": "Grilled chicken, crisp romaine lettuce, croutons, and Caesar dressing.",
+    "price": 145,
+    "rating": 3,
+    "category": "lunch",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/DKqXkqZ/lunch1.jpg",
+    "title": "Vegetable Stir-Fry",
+    "description": "Assorted vegetables stir-fried in a savory soy-ginger sauce.",
+    "price": 130,
+    "rating": 2,
+    "category": "lunch",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/Fs9Gcyk/lunch4.jpg",
+    "title": "Caprese Sandwich",
+    "description": "Fresh mozzarella, tomatoes, and basil on ciabatta bread.",
+    "price": 180,
+    "rating": 4,
+    "category": "lunch",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/XyWV1Q2/lunch3.jpg",
+    "title": "Quinoa Salad",
+    "description": "Quinoa mixed with colorful vegetables and a zesty vinaigrette.",
+    "price": 220,
+    "rating": 5,
+    "category": "lunch",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/SmgkxL7/dinner1.webp",
+    "title": "Grilled Salmon",
+    "description": "Juicy grilled salmon fillet with lemon herb butter.",
+    "price": 170,
+    "rating": 3,
+    "category": "dinner",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/Nj4KF6k/dinner2.webp",
+    "title": "Pasta Primavera",
+    "description": "Delicious pasta tossed with seasonal vegetables in a light cream sauce.",
+    "price": 195,
+    "rating": 4,
+    "category": "dinner",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/Cz3sx9C/dinner3.webp",
+    "title": "Beef Stir-Fry",
+    "description": "Tender beef strips stir-fried with broccoli and soy-garlic sauce.",
+    "price": 230,
+    "rating": 5,
+    "category": "dinner",
+    "button": "Order Now"
+  },
+  {
+    "image": "https://i.ibb.co/VMzSXk3/dinner4.jpg",
+    "title": "Vegetarian Lasagna",
+    "description": "Layers of pasta, ricotta, marinara sauce, and vegetables.",
+    "price": 270,
+    "rating": 5,
+    "category": "dinner",
+    "button": "Order Now"
+  }
+]
